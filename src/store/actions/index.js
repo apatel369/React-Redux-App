@@ -1,11 +1,3 @@
-export {
-    add,
-    substract,
-    increment,
-    decrement
-} from './counter';
+export { add, substract, increment, decrement } from "./counter";
 
-export {
-    storeResult,
-    deleteResult
-} from './result';
+export { storeResult, deleteResult } from "./result";
